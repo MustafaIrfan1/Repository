@@ -1,0 +1,159 @@
+[
+{
+FoodDonations: [
+{
+Organisation: {
+FoodDonations: [ ],
+OrganisationID: 3,
+Name: "Saylani Welfare",
+Address: "A-25, Bahadurabad Chowrangi Karachi, Pakistan",
+Contact: "92-311-1729526"
+},
+User: {
+Admins: [ ],
+FoodDonations: [ ],
+MoneyDonations: [ ],
+Riders: [ ],
+UserID: 7,
+Email: "k163895@nu.edu.pk",
+Password: "dGFsaGE=",
+Contact: "03001122445"
+},
+FoodDonationId: 2,
+UserID: 7,
+OrganisationID: 3,
+RiderID: 2,
+Portions: 300,
+Location: "FB Area"
+},
+{
+Organisation: {
+FoodDonations: [ ],
+OrganisationID: 1,
+Name: "Edhi Center",
+Address: "GuruMandir Office",
+Contact: "(021) 32413233"
+},
+User: {
+Admins: [
+{
+AdminID: 2,
+UserID: 5
+}
+],
+FoodDonations: [ ],
+MoneyDonations: [
+{
+MoneyDonationID: 1,
+UserID: 5,
+RiderID: 2,
+Amount: 1000
+}
+],
+Riders: [ ],
+UserID: 5,
+Email: "sahadmorani99@gmail.com",
+Password: "c2FoYWQ=",
+Contact: "03242047464"
+},
+FoodDonationId: 3,
+UserID: 5,
+OrganisationID: 1,
+RiderID: 2,
+Portions: 220,
+Location: "Nazimabaad"
+}
+],
+MoneyDonations: [
+{
+User: {
+Admins: [
+{
+AdminID: 2,
+UserID: 5
+}
+],
+FoodDonations: [
+{
+Organisation: {
+FoodDonations: [ ],
+OrganisationID: 1,
+Name: "Edhi Center",
+Address: "GuruMandir Office",
+Contact: "(021) 32413233"
+},
+FoodDonationId: 3,
+UserID: 5,
+OrganisationID: 1,
+RiderID: 2,
+Portions: 220,
+Location: "Nazimabaad"
+}
+],
+MoneyDonations: [ ],
+Riders: [ ],
+UserID: 5,
+Email: "sahadmorani99@gmail.com",
+Password: "c2FoYWQ=",
+Contact: "03242047464"
+},
+MoneyDonationID: 1,
+UserID: 5,
+RiderID: 2,
+Amount: 1000
+}
+],
+User: {
+Admins: [ ],
+FoodDonations: [
+{
+Organisation: {
+FoodDonations: [ ],
+OrganisationID: 3,
+Name: "Saylani Welfare",
+Address: "A-25, Bahadurabad Chowrangi Karachi, Pakistan",
+Contact: "92-311-1729526"
+},
+FoodDonationId: 2,
+UserID: 7,
+OrganisationID: 3,
+RiderID: 2,
+Portions: 300,
+Location: "FB Area"
+}
+],
+MoneyDonations: [ ],
+Riders: [ ],
+UserID: 7,
+Email: "k163895@nu.edu.pk",
+Password: "dGFsaGE=",
+Contact: "03001122445"
+},
+RiderVehicles: [
+{
+Vehicle: {
+RiderVehicles: [ ],
+VehicleType: {
+Vehicles: [
+{
+RiderVehicles: [ ],
+VehicleID: 2,
+VehicleTypeID: 1
+}
+],
+VehicleTypeID: 1,
+Type: "Bike"
+},
+VehicleID: 1,
+VehicleTypeID: 1
+},
+RiderVehicleID: 4,
+RiderID: 2,
+VehicleID: 1
+}
+],
+RiderID: 2,
+UserID: 7,
+Salary: 20000
+}
+]
